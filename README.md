@@ -1,4 +1,4 @@
-![Meu Banner](banner git.png)
+<img width="1536" height="1024" alt="banner git" src="https://github.com/user-attachments/assets/65cb233e-2a08-4f39-b621-769ed450de80" />
 
 # Olá, eu sou o Leandro 👋
 
