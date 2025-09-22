@@ -1,3 +1,5 @@
+banner git.png
+
 # Olá, eu sou o Leandro 👋
 
 🎓 Estudante do curso Técnico em Informática (SENAC Tatuapé)  
