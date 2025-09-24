@@ -5,7 +5,7 @@
 
 🎓 Estudante do curso Técnico em Informática (SENAC Tatuapé)  
 🎨 Formado em Técnico em Design Gráfico  
-📚 Cursando Ciência Política na faculdade  
+📚 Cursando Ciência Política na faculdade Anhanguera
 💻 Interesse em programação, sistemas, design e novas tecnologias  
 ⚽ Apaixonado por futebol, praticar esportes e academia  
 ✈️ Curto viajar e conhecer novos lugares  
