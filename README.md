@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="banner git" src="https://github.com/user-attachments/assets/65cb233e-2a08-4f39-b621-769ed450de80" />
+![banner](https://github.com/user-attachments/assets/a0a4c29e-709f-4237-ba82-48bdf9b508e4)
+
 
 # Olá, eu sou o Leandro 👋
 
